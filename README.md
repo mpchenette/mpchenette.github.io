@@ -5,7 +5,7 @@
 
 ## My Pages (within this repo)
 - [new_file.md](./new_file.md)
-- [folder/file_in_folder.md](./folder/file_in_folder.md)
+- [new_folder/file_in_folder.md](./new_folder/file_in_folder.md)
 
 ## Conflict Test
 - [mpchenette/folder](https://mpchenette.com/folder)
