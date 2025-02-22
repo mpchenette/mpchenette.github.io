@@ -5,3 +5,4 @@
 
 ## My Pages (within this repo)
 - [new_file.md](./new_file.md)
+- [folder/file_in_folder.md](./folder/file_in_folder.md)
