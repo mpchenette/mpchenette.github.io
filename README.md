@@ -4,6 +4,7 @@ This is the `README.md` file under the `/` directory in the `mpchenette.github.i
 
 ## My Pages and Directories (within this repo)
 ### Pages
+- [README.md](./README.md)
 - [page.md](./page.md)
 - [folder/page.md](./folder/page.md)
 - [folder_v2/page.md](./folder_v2/page.md)
