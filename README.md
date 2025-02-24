@@ -1,15 +1,17 @@
-# repo - mpchenette.github.io
+# /README.md
+
+This is the `README.md` file under the `/` directory in the `mpchenette.github.io` repository.
 
 ## My Pages and Directories (within this repo)
 ### Pages
-- [new_file.md](./new_file.md)
-- [folder/other.md](./folder/other.md)
-- [folder_v2/other.md](./folder_v2/other.md)
+- [page.md](./page.md)
+- [folder/page.md](./folder/page.md)
+- [folder_v2/page.md](./folder_v2/page.md)
 
 ### Directories
 - [folder/](./folder/)
 - [folder_v2/](./folder_v2/)
 
-## My Projects (i.e., other repos)
+## My Project Sites (i.e., other repos)
 - [mpchenette/bicep](https://mpchenette.com/bicep)
 - [mpchenette/folder](https://mpchenette.com/folder)
